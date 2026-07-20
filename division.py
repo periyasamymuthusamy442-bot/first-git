@@ -1,1 +1,1 @@
-print("division",2/3);
+print("division",3/7);
