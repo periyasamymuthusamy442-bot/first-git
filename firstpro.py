@@ -4,3 +4,5 @@ print("multiplication",2*3);
 print("hello world");
 print("periyasamy");
 print("father");
+print("mother");
+print("brother");
