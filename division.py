@@ -1,1 +1,0 @@
-print("division",3/7);
